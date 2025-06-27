@@ -1,3 +1,27 @@
+# Fillout Assessment – Full Stack Engineer
+
+This project was completed as part of an assessment for the position of Full Stack Engineer at Fillout.
+
+## Features
+- **Drag and Drop:** Reorder pages by dragging and dropping them in the navigation bar.
+- **Add Pages Between Existing Ones:** Insert new pages at any position between existing pages.
+- **Move Pages to Start:** Move any page to the beginning of the navigation.
+- **Create and Delete Pages:** Easily add new pages or remove existing ones.
+
+## Running the Project
+
+To start the development server, run:
+
+```
+npm run dev
+```
+
+Then open [http://localhost:3000](http://localhost:3000) in your browser.
+
+---
+
+For any questions, feel free to contact me at hello@andrelima.space
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -17,8 +41,6 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
 ## Learn More
 
